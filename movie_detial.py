@@ -3,8 +3,8 @@ import requests
 print("开始get页面")
 #请求页面
 url = 'http://www.avmoo.net/cn/movie/5e0h'
-#header = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'}
-wb_data = requests.get(url)
+header = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'}
+wb_data = requests.get(url,header)
 if str(wb_data) == "<Response [200]>":
     #分析抓取地址
     Soup = BeautifulSoup(wb_data.text,'lxml')

@@ -1,4 +1,5 @@
 import requests
+import time
 from tkinter import *
 
 from bs4 import BeautifulSoup
@@ -16,34 +17,37 @@ movie_id = []
 movie_ids = ["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
 
 movie_2c = "5d"
+movie_3c = []
+movie_4c = []
 for i in movie_ids:
-    movie_3c = movie_2c + i
-    for x in movie_ids:
-        movie_4c = movie_3c + x
-        movie_id.append(movie_4c)
-movie_id.reverse()
-print("抓取ID准备完成")
-s = ""
-for a in movie_id:
+    a = movie_2c+i
+    for z in movie_ids:
+        b = a+z
+        movie_4c.append(b)
+
+movie_4c.reverse()
+
+
+
+for a in movie_4c:
     url = "http://www.avmoo.net/cn/movie/" + a
 #url = "http://www.avmoo.net/cn/movie/5d00"
     header = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36',
               }
     source_code = requests.get(url,header)
-    print(source_code)
-    if str(source_code) == "<Response [200]>":
-        plain_text = source_code.text
 
-        file = open("/Users/zhangchenhui/GitHub/JAVMOO/movie_pages/" + a + ".html","w")
+    plain_text = source_code.text
 
-        file.write(plain_text)
+    file = open("/Users/zhangchenhui/GitHub/JAVMOO/movie_pages/" + a + ".html","w")
 
-        movie_id.remove(a)
+    file.write(plain_text)
 
-        print(str(source_code) + a + "页输出完成")
-    else:
-        print(a + "页面抓取失败")
-        pass
+    print(str(source_code) + a + "页输出完成")
+    #movie_id.remove(a)
+
+    time.sleep(5)
+
+
 
 print("完成")
 

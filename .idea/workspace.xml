@@ -2,7 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec8279c-5161-46f4-b3c4-fa635fd471e3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/100.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/19.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/20.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/21.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/22.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/25.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/26.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/27.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/28.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/29.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/30.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/31.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/32.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/33.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/34.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/35.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/36.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/37.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/38.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/39.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/40.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/41.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/42.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/43.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/44.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/45.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/46.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/47.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/48.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/49.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/50.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/51.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/52.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/53.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/54.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/55.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/56.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/57.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/58.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/59.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/60.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/61.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/62.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/63.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/64.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/65.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/66.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/67.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/68.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/69.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/70.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/71.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/72.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/73.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/74.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/75.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/76.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/77.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/78.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/79.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/80.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/81.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/82.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/83.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/84.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/85.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/86.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/87.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/88.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/89.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/90.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/91.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/92.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/93.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/94.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/95.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/96.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/97.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/98.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htmls/99.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie_detial.py" afterPath="$PROJECT_DIR$/movie_detial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie_pages.py" afterPath="$PROJECT_DIR$/movie_pages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie_pages/5dzv.html" afterPath="$PROJECT_DIR$/movie_pages/5dzv.html" />
     </list>
     <ignored path="JAVMOO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,7 +125,20 @@
     <favorites_list name="JAVMOO" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="movie_pages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movie_pages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7605364">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,15 +158,15 @@
         <option value="$PROJECT_DIR$/JAVMOOcopy.py" />
         <option value="$PROJECT_DIR$/Learnpython.py" />
         <option value="$PROJECT_DIR$/Javmoo.py" />
-        <option value="$PROJECT_DIR$/movie_pages.py" />
         <option value="$PROJECT_DIR$/movie_detial.py" />
+        <option value="$PROJECT_DIR$/movie_pages.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
+    <option name="x" value="65" />
     <option name="y" value="23" />
-    <option name="width" value="1271" />
+    <option name="width" value="1267" />
     <option name="height" value="866" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -78,21 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="JAVMOO">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,6 +214,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,7 +233,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Python.Javmoo">
+  <component name="RunManager" selected="Python.JAVMOOcopy">
     <configuration default="false" name="JAVMOOcopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,8 +414,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.Javmoo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.JAVMOOcopy" />
+        <item index="0" class="java.lang.String" itemvalue="Python.JAVMOOcopy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Javmoo" />
         <item index="2" class="java.lang.String" itemvalue="Python.Learnpython" />
       </list>
     </recent_temporary>
@@ -322,15 +434,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="23" width="1271" height="866" extended-state="0" />
-    <editor active="false" />
+    <frame x="65" y="23" width="1267" height="866" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959871" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38917527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22293815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -366,9 +478,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_detial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -390,9 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,13 +524,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learnpython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -438,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82608694">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9813084">
@@ -461,10 +560,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movie_detial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2600897">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.32171583">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7605364">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
